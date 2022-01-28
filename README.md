@@ -2,7 +2,7 @@
 
 I'm a recent graduate from Oxford University with an MEng in Materials Science. I am also in the process of completing an MSc in Data Science from Queen Mary University of London (finish end Jan 2022).
 
-I am interested in all things machine learning, and as part of my degree, I have worked on audio/voice recognition, deep learning image manipulation and recognition, and early asthma detection/prediction.
+I am interested in all things machine learning, and as part of my degree, I have worked on projects such as audio/voice recognition, deep learning image manipulation and recognition, and early asthma detection/prediction.
 
 
 <!--
